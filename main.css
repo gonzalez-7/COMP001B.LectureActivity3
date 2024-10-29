@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    background-color: #4CAF50;
+    background-color: #555e55;
     color: white;
     padding: 10px 20px;
     text-align: center;
@@ -14,7 +14,7 @@ header {
 nav {
     float: left;
     width: 20%; 
-    background-color: #f2f2f2;
+    background-color: #44b4ff;
     padding: 10px;
     box-sizing: border-box;
 }
@@ -29,14 +29,14 @@ main {
 aside {
     float: left;
     width: 20%; 
-    background-color: #f9f9f9;
+    background-color: #44b4ff;
     padding: 10px;
     box-sizing: border-box;
 }
 
 footer {
     clear: both; 
-    background-color: #4CAF50;
+    background-color: #555e55;
     color: white;
     text-align: center;
     padding: 10px 20px;
