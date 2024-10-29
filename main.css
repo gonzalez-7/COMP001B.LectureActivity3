@@ -19,3 +19,27 @@ nav {
     box-sizing: border-box;
 }
 
+main {
+    float: left;
+    width: 60%; 
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+aside {
+    float: left;
+    width: 20%; 
+    background-color: #f9f9f9;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+footer {
+    clear: both; 
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+    position: relative;
+}
+
